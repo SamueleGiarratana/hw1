@@ -1,0 +1,120 @@
+
+body{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    background-color: whitesmoke;
+    background-image: url(img/back_account.jpg);
+    background-size:cover;
+    background-position: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+
+/*header*/
+header{
+    margin-top: 30px;
+    border-radius: 20px;
+    height: 100px;
+    align-items: center;
+}
+nav {
+    display: flex;
+    justify-content:flex-end;
+    display: flex;
+   
+}
+
+
+
+#link a {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border: 3px solid grey;
+    padding: 5px;
+    background-color: lightgray;
+    border-radius: 4px ;
+}
+
+h1{
+    font-family: 'Viaoda Libre', cursive;
+    color: black;
+    font-size: 35px;
+
+}
+/*article*/
+
+article{
+    margin-top:-30px;
+    text-align: left;
+    background-color: whitesmoke;
+    border:3px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
+
+section{
+    margin-top:-30px; 
+    border-radius: 20px;
+    padding: 10px;
+}
+
+strong{
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 25px;
+}
+
+.profilo p{
+    font-family: 'Viaoda Libre', cursive;  
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+#carrello{
+   margin-top: 100px;
+    text-align: left;
+    background-color: whitesmoke;
+    border:3px solid black;
+    border-radius: 20px;
+    padding: 5px;
+   
+}
+
+
+
+
+/*footer*/
+footer {
+    margin-top: 100px;
+    background-color: black;
+    color: #fff;
+    padding: 20px ;
+    border-radius: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-col {
+    width: 30%;
+}
+
+.footer-col p {
+    margin-bottom: 10px;
+}
+
+.footer-col strong {
+    font-weight: bold;
+}

@@ -1,0 +1,45 @@
+html{
+    font-family: 'Viaoda Libre', 'Helvetica';
+}
+
+body{
+    
+    text-align: center;
+    margin: 15%;
+    border: 2px solid blanchedalmond;
+    background-image: url(img/sfondo.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+.error{
+    color: red;
+}
+
+h1{
+    font-size: 50px ;
+    color: blanchedalmond;
+}
+
+h2{
+    font-size: 40px ;
+    color: blanchedalmond;
+}
+
+strong{
+    font-size: 25px ;
+    color: blanchedalmond;
+    margin-bottom: 10px;
+}
+
+.username,.password{
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: blanchedalmond;
+}
+
+
+.nuovo{
+    color: blanchedalmond;
+    margin-bottom: 30px;
+}

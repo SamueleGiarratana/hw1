@@ -1,0 +1,78 @@
+
+html{
+    font-family: 'Viaoda Libre', 'Helvetica';
+}
+
+body{
+    
+    text-align: center;
+    margin: 7%;
+    border: 2px solid blanchedalmond;
+    background-image: url(img/sfondo.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+
+h1{
+    font-size: 50px ;
+    color: blanchedalmond;
+}
+
+h2{
+    font-size: 40px ;
+    color: blanchedalmond;
+}
+
+strong{
+    font-size: 25px ;
+    color: blanchedalmond;
+    margin-bottom: 10px;
+}
+
+.name, .surname, .username, .email, .password,.confirm_password{
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: blanchedalmond;
+}
+
+
+form span {
+    opacity: 0;
+
+    line-height: 20px;
+   
+}
+
+
+.errorj span {
+    opacity: 1;
+    font-size: 14px;
+    color: red;
+}
+
+
+.allow{
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: blanchedalmond;
+}
+
+.allow input{
+    width: 20px;
+    height: 20px;
+}
+
+.allow label{
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+
+.vecchio{
+    color: blanchedalmond;
+    margin-bottom: 30px;
+}
+
+
+
